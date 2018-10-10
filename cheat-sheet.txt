@@ -1,0 +1,7 @@
+// finding a running app not working
+
+ps aux | grep subl
+
+// kill process terminal
+
+kill 14930

@@ -1,0 +1,24 @@
+From lein@lein Sat Sep 22 21:30:55 2018
+X-Mailer: mail (GNU Mailutils 2.99.99)
+To: down”,lein.davir@gmail.com
+Subject: “system
+
+“test alert”
+
+
+
+
+
+
+
+ps aux | grep subl
+
+// kill process terminal
+
+kill 14930
+
+ps aux | grep subl
+
+// kill process terminal
+
+kill 14930
